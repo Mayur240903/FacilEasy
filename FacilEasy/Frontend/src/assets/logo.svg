@@ -1,0 +1,34 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Graduation Cap -->
+  <g transform="translate(70, 35) scale(1.2)">
+    <path d="M25 0L50 15L25 30L0 15L25 0Z" fill="#2D3D4A" stroke="#2D3D4A" strokeWidth="1"/>
+    <path d="M12 18V33L25 40L38 33V18" fill="#2D3D4A" stroke="#2D3D4A" strokeWidth="1"/>
+    <rect x="24" y="0" width="2" height="15" fill="#2D3D4A"/>
+    <path d="M40 15V33M40 33L45 38M40 33L35 38" stroke="#2D3D4A" strokeWidth="2"/>
+  </g>
+  
+  <!-- Stack Elements -->
+  <g transform="translate(70, 70)">
+    <rect x="0" y="0" width="60" height="10" rx="2" fill="#2D3D4A"/>
+    <rect x="5" y="15" width="50" height="10" rx="2" fill="#2D3D4A"/>
+    <rect x="10" y="30" width="40" height="10" rx="2" fill="#2D3D4A"/>
+    <path d="M20 45 C20,55 40,55 40,45" stroke="#2D3D4A" strokeWidth="5" fill="none"/>
+  </g>
+  
+  <!-- Text "FACILEASY" -->
+  <g transform="translate(25, 160)">
+    <path d="M0 0V20H15V15H5V12.5H12.5V7.5H5V5H15V0H0Z" fill="#2D3D4A"/>
+    <path d="M20 0V20H25V12.5H32.5V20H37.5V0H32.5V7.5H25V0H20Z" fill="#2D3D4A"/>
+    <path d="M42.5 0V20H57.5V15H47.5V0H42.5Z" fill="#2D3D4A"/>
+    <path d="M62.5 0V20H67.5V0H62.5Z" fill="#2D3D4A"/>
+    <path d="M72.5 0V20H77.5V5H85V0H72.5Z" fill="#2D3D4A"/>
+    <path d="M90 0V20H105V15H95V12.5H102.5V7.5H95V5H105V0H90Z" fill="#2D3D4A"/>
+    <path d="M110 0V20H125V15H115V12.5H122.5V7.5H115V5H125V0H110Z" fill="#2D3D4A"/>
+    <path d="M130 0V20H135V12.5L142.5 20H150L140 10L150 0H142.5L135 7.5V0H130Z" fill="#2D3D4A"/>
+  </g>
+
+  <!-- Text "CAMPUS SOLUTION" -->
+  <g transform="translate(45, 190)">
+    <text x="0" y="0" fill="#2D3D4A" style="font-family: sans-serif; font-size: 10px; font-weight: bold; letter-spacing: 1px;">CAMPUS SOLUTION</text>
+  </g>
+</svg> 
